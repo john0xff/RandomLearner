@@ -34,7 +34,7 @@ public class RandomQuestions
 
 		try
 		{
-			File fXmlFile = new File(momoryTest2Str);
+			File fXmlFile = new File(questionsStr);
 
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
