@@ -1,0 +1,57 @@
+﻿<?xml version="1.0"?>
+<quiz>
+
+	<!-- Test of questions -->
+
+	<!-- 1 -->
+	<examSet>
+		<question>What is a computer algorithm?</question>
+		<options>A) step-by-step procedure for calculations
+B) a collection of data items stored in memory
+C) some crap
+D) more crap
+		</options>
+		<answer>A) is correct</answer>
+	</examSet>
+	
+	<!-- 2 -->
+	<examSet>
+		<question>What is a data structure?</question>
+		<options>A) some crap
+B) more crap 
+C) step-by-step procedure for calculations
+D) a collection of data items stored in memory
+		</options>
+		<answer>D) is correct</answer>
+	</examSet>
+	
+	<!-- 3 -->
+	<examSet>
+		<question>Make something up!?</question>
+		<options>A) some crap
+B) more crap 
+C) :D
+D) :)
+		</options>
+		<answer>all options incorrect :/</answer>
+	</examSet>
+	
+	<!-- 4 -->
+	<examSet>
+		<question>Make something up!?</question>
+		<options>A) Different kinds of data structures are suited to different kinds of applications, and some are highly specialized to specific tasks. For example, B-trees are particularly well-suited for implementation of databases, while compiler implementations usually use hash tables to look up identifiers.
+
+B) The Java collections framework (JCF) is a set of classes and interfaces that implement commonly reusable collection data structures. JCF is a part of SDK. Main interfaces JCF provides are: list, stack, queue, set, map.
+
+C) Different kinds of data structures are suited to different kinds of applications, and some are highly specialized to specific tasks. For example, B-trees are particularly well-suited for implementation of databases, while compiler implementations usually use hash tables to look up identifiers.
+
+D) The Java collections framework (JCF) is a set of classes and interfaces that implement commonly reusable collection data structures. JCF is a part of SDK. Main interfaces JCF provides are: list, stack, queue, set, map.
+		</options>
+		<answer>all options incorrect :/</answer>
+	</examSet>
+
+
+	<!-- <examSet> <profession></profession> <question></question> <answer> 
+		</answer> </examSet> -->
+
+</quiz>

@@ -1,0 +1,20 @@
+runnable file which require file in following path:
+
+res/questions.xml
+
+xml tag structure:
+
+<?xml version="1.0"?>
+<quiz>
+	<examSet>
+		<question>...</question>
+		<options>...</options>
+		<answer>...</answer>
+	</examSet>
+	
+	<examSet>
+		<question>...</question>
+		<options>...</options>
+		<answer>...</answer>
+	</examSet>
+</quiz>
